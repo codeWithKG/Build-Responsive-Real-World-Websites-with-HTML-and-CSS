@@ -100,8 +100,7 @@ During the course, we use many **online tools and resources**, all available on 
 🚫 What’s **not allowed** is using this content to create your own course, videos, or articles.  
 
 ### ❓ Q10: How can I get updates on new courses?  
-📩 Subscribe to my email list on my [website](https://codingheroes.io)  
-🔥 Follow me on Twitter: [@jonasschmedtman](https://twitter.com/jonasschmedtman)  
+🔥 Follow me on Twitter: [@codewithkg](https://twitter.com/codewithkg)  
 
 ### ❓ Q11: How do I get my certificate of completion?  
 📜 Udemy provides a **certificate of completion** when you finish **100% of the course**.  
