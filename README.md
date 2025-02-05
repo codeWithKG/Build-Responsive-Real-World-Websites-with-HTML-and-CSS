@@ -27,6 +27,42 @@ This repo contains **starter files** and **final code** for all sections and pro
 - Compare your work with the **final code** if something doesn’t work!  
 
 ---
+## 🔥 Getting Started  
+
+### 1️⃣ Download Starter Code  
+Before starting the course, download the **starter files** and **final code** from the GitHub repository below. 👇  
+
+🚨 **Please read the FAQ on GitHub!** Trust me, you’ll eventually have some of these questions. 😉  
+
+👉 [Starter & Final Code + FAQs on GitHub](#)  
+
+---
+
+### 2️⃣ Download Course Materials  
+You’ll also need to download additional materials from the **end of this lecture** (choose just one of the theory lectures): 👇  
+
+📌 **Theory Lecture Slides:**  
+- 📄 **[theory-lectures-v2-SMALLER.pdf](#)** → Average-quality images (**158 MB**)  - Attach PDF or PPT
+
+📌 **Web Design Guidelines:**  
+- 📄 **[all-design-guidelines.pdf](#)** → A summary of all web design rules and guidelines from **Section 5**  - Attach Wed design guide lines
+
+---
+
+### 3️⃣ Community & Resources  
+✅ **Join Our Student Community:**  
+We have an amazing **Telegram community** with **1,800+ students**! Learn together, share ideas, and get updates on new courses.   
+👉 [Join the Discord community](#) - **[](https://t.me/codewithkg)**. 
+
+✅ **Access Online Tools & Resources:**  
+During the course, we use many **online tools and resources**, all available on my **[resources page](https://codingheroes.io/resources)**.  
+
+👋 **Pro Tip:** Avoid using lecture numbers when taking notes—these may change with course updates.  
+
+---
+
+🎉 **Now, dive in and have fun with the course!** 😁 
+---
 
 ## 📢 Frequently Asked Questions (FAQ)  
 
