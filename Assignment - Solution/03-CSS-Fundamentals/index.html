@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>The Basic Language of the Web: HTML</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="container">
+    <header class="main-header">
+      <h1>📘 The Code Magazine</h1>
+      <nav>
+        <ul>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="#">Challenges</a></li>
+          <li><a href="#">Flexbox</a></li>
+          <li><a href="#">CSS Grid</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <article>
+      <header class="post-header">
+        <h2>The Basic Language of the Web: HTML</h2>
+        <p id="author">Posted by <strong>CodeWithKG</strong> on Monday, FEB 16th 2025</p>
+      </header>
+      <p>HTML consists of elements that describe different types of content...</p>
+    </article>
+    
+    <aside>
+      <h4>Related posts</h4>
+      <table>
+        <tr>
+          <th>Image</th>
+          <th>Title</th>
+          <th>Author</th>
+        </tr>
+        <tr>
+          <td><img src="img/related-1.jpg" alt="Programming" width="75" height="75"></td>
+          <td><a href="#">How to Learn Web Development</a></td>
+          <td class="related-author">Jonas Schmedtmann</td>
+        </tr>
+        <tr>
+          <td><img src="img/related-2.jpg" alt="CSS" width="75" height="75"></td>
+          <td><a href="#">The Unknown Powers of CSS</a></td>
+          <td class="related-author">Jim Dillon</td>
+        </tr>
+      </table>
+    </aside>
+    
+    <section id="comments">
+      <h3>User Comments</h3>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="comment">Comment:</label>
+        <textarea id="comment" name="comment" rows="4" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+    
+    <footer>
+      <p id="copyright">Copyright &copy; 2025 by The CodeWithKG.</p>
+    </footer>
+  </body>
+</html>
